@@ -1,16 +1,26 @@
-# myapp
+# Calculadora Web
 
-A new Flutter project.
+Este é um projeto de calculadora estilizada desenvolvido usando Flutter. O objetivo é proporcionar uma interface visual agradável, simulando o visual de uma calculadora convencional, com funcionalidades básicas e avançadas de operações matemáticas.
 
-## Getting Started
+## Acesse o link para acessar a página 
+- https://amandanvilalva.github.io/calculadora-web/
 
-This project is a starting point for a Flutter application.
+## 💡 Funcionalidades
+- Interface moderna com botões arredondados e sombreamento suave.
+- Suporte a operações básicas: adição, subtração, multiplicação e divisão.
+- Correção de entrada com botão de backspace (⌫).
+- Limpeza completa da expressão com botão de reset (C).
+- Suporte a parênteses para expressões matemáticas complexas.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tecnologias
+- **Flutter**: Framework utilizado para construir a interface responsiva.
+- **Dart**: Linguagem de programação utilizada para lógica e manipulação de expressões.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📄 Estrutura do Código
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **calculadora.dart**: Contém a interface do usuário e a lógica para processamento de expressões matemáticas.
+
+## ✨ Personalização
+- O esquema de cores utiliza tons claros e vibrantes de amarelo para um visual moderno.
+- Sombras e bordas arredondadas conferem um efeito de profundidade aos botões.
+- Fácil de modificar para alterar cores, estilos e posições dos botões.
